@@ -84,6 +84,7 @@ body {
     background-color: #a435f0;
     color: white;
     transition-duration: 1s;
+    cursor: pointer;
 }
 
 .headimage{
